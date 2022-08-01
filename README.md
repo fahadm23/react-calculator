@@ -1,4 +1,4 @@
-# React Calculator App
+# React Calculator App 🔢
 
 -This calculator was built using React and styled with CSS grid
 
